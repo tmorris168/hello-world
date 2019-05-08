@@ -1,6 +1,7 @@
 # hello-world
 Assignment Part 1
 
-Hello, my name is Tim Morris.
+Hello.
 
-I am a big fan of the band, Black Sabbath.
+My name is Tim Morris. 
+I like cold beer, hot chicken wings with blue cheese, and football.
